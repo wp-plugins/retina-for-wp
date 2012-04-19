@@ -11,7 +11,7 @@ Plugin for using retina images in wordpress.
 == Description ==
 
 This plugin let you add a shortcode with two different image sources one too a normal sized image and one for retina. The plugin will then load the right image depending on if it's a retina display or not.
-For more info and how to use it. Go to erikknutsson.se/retina-for-wp
+For more info and how to use it.
 
 
 == Installation ==
