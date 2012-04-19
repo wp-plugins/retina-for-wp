@@ -34,4 +34,4 @@ An answer to that question.
 
 == A brief Markdown Example ==
 
-[retina normal="path-tp-normal-image" retina="path-to-retina-image" width="image-width" height="image-height"  /]
+[retina normal="path-to-normal-image" retina="path-to-retina-image" width="image-width" height="image-height"  /]
