@@ -18,14 +18,12 @@ For more info and how to use it. Go to erikknutsson.se/retina-for-wp
 1. Download and Extract the zip file and just drop the folder "retina-for-wp" into the wp-content/plugins/ directory of your WordPress installation.
 2. Activate the Plugin "Retina for WP" on your "Plugins" page.
 3. To use Retina for WP you have to put the shortcode 
-`[retina normal="path-to-normal-image" retina="path-to-retina-image" width="image-width" height="image-height" /]` where you want the image in your editor.
+[retina normal="path-to-normal-image" retina="path-to-retina-image" width="image-width" height="image-height" /] where you want the image in your editor.
 
 == Changelog ==
 
 = 0.1.1 =
 * First version.
-== Upgrade Notice ==
-
 == A brief Markdown Example ==
 
-[retina normal="path-to-normal-image" retina="path-to-retina-image" width="image-width" height="image-height" /]
+`[retina normal="path-to-normal-image" retina="path-to-retina-image" width="image-width" height="image-height" /]`
