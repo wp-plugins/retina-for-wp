@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: Retina for WP
+Plugin URI: http://www.erikknutsson.se/retina-for-wp
 Description: A Simple plugin that loads diffrent images from a simple shortcode. Depending on if the screen is retina or not.
 Version: 0.1
 Author: Erik Knutsson
@@ -50,7 +51,7 @@ function shortcode_handler( $atts, $content = null ){
 
 add_action('wp_head','retina_detection');
 add_action('init','check_cookie');
-add_shortcode( 'retina', 'shortcode_handler' );
+add_shortcode( 'retina', 'shortcode_handler');
 
 
 
