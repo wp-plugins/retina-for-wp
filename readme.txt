@@ -5,8 +5,7 @@ Requires at least: 2.0.2
 Tested up to: 3.3.1
 Stable tag: 0.1.2
 
-
-Plugin for using retina images in wordpress.
+This plugin let you add a shortcode with two different image sources one too a normal sized image and one for retina.
 
 == Description ==
 
