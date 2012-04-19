@@ -3,7 +3,7 @@ Contributors: knuten
 Tags: retina for wp, retina, images, image,
 Requires at least: 2.0.2
 Tested up to: 3.3.1
-Stable tag: 0.1.1
+Stable tag: 0.1.2
 
 
 Plugin for using retina images in wordpress.
@@ -32,6 +32,9 @@ For more info and how to use it.
 
 
 == Changelog ==
+
+= 0.1.2 =
+Cleaned up the code a bit and added some info.
 
 = 0.1.1 =
 First version.
