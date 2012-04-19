@@ -2,8 +2,8 @@
 /*
 Plugin Name: Retina for WP
 Plugin URI: http://www.erikknutsson.se/retina-for-wp
-Description: A Simple plugin that loads diffrent images from a simple shortcode. Depending on if the screen is retina or not.
-Version: 0.1
+Description: A Simple plugin that loads diffrent images from a simple shortcode. Depending on if the screen is retina or not. The Shortcode is [retina normal="img-path" retina="img-path" width="" height="" /]
+Version: 0.1.1
 Author: Erik Knutsson
 Author URI: http://www.erikknutsson.se
 */
