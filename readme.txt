@@ -3,7 +3,7 @@ Contributors: knuten
 Tags: retina, images, image,
 Requires at least: 2.0.2
 Tested up to: 3.3.1
-Stable tag: trunk
+Stable tag: 0.1
 
 This plugin let you add a shortcode with two different image sources one too a normal sized image and one for retina.
 
