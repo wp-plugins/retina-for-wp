@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Retina for WP ===
 Contributors: knuten
 Tags: retina, images, image,
 Requires at least: 2.0.2
