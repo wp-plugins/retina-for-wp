@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: knuten
-Tags: retina for wp, retina, images, image,
+Tags: retina, images, image,
 Requires at least: 2.0.2
 Tested up to: 3.3.1
 Stable tag: 0.1.2
